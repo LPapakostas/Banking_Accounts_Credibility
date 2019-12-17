@@ -239,7 +239,7 @@ namespace example
             }
             Console.WriteLine("Summaries of All Currencies that presented in valid data(EUR)");
             foreach(var pair in summaries_in_Euros){
-                Console.WriteLine("{0}:{1}",pair.Key,pair.Value);
+                Console.WriteLine("{0}:{1}",pair.Key,String.Format("{0:#,0.000}", pair.Value));
             }
 
         }
