@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/labis/.dotnet/store/|arch|/|tfm|",
+      "/home/labis/.nuget/packages"
+    ]
+  }
+}
