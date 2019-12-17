@@ -6,7 +6,7 @@ Parsing valid accounts with amounts from different currencies to EUR  into SQL D
 [Install Visual Studio Code](https://code.visualstudio.com/) with C# addon
 # Excecution
 ```bash
-git clone 
+git clone https://github.com/LPapakostas/Banking_Accounts_Credibility.git
 cd Banking_Accounts_Credibility
 dotnet restore
 dotnet run
