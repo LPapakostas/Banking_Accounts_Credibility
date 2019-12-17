@@ -12,6 +12,6 @@ The Database has the following features
 
 The columns *BALANCE_CURRENCY* and *PAY_AMOUNT_CURRENCY* are evaluated from *BALANCE* and *PAY_AMOUNT* columns respectively, by converting them to EUR through [Exchage Rate API](https://exchangeratesapi.io/).
 
-The entries that are rejected from Database,through _validate_check_ function, are in _bad.csv_file_.
+The entries that are rejected from Database,through _validate_check_ function, are in _bad.csv_ file.
 
 Finally, the program must print the total payments for every currency in EUR. 
