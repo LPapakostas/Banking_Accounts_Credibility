@@ -4,6 +4,13 @@ Parsing valid accounts with amounts from different currencies to EUR  into SQL D
 [Install .NET Core](https://docs.microsoft.com/en-us/dotnet/core/install/linux-package-manager-ubuntu-1904)
 
 [Install Visual Studio Code](https://code.visualstudio.com/) with C# addon
+# Excecution
+```bash
+git clone 
+cd Banking_Accounts_Credibility
+dotnet restore
+dotnet run
+```
 # Explanation
 The purpose of this program is to parsing payment file _PF.csv_ into a SQLite Database.
 
